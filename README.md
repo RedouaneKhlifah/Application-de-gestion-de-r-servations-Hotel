@@ -6,7 +6,7 @@ view reservations, and update room details.
 
 Features:
 
-1  - User authentication and registration
+1 - User authentication and registration
 2  - Hotel search based on various criteria
 3 - Room selection and booking
 4 - Reservation confirmation and cancellation
